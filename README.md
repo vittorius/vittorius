@@ -12,7 +12,8 @@ I've decided to follow my heart into the land of PL design, interpreters,
 compilers, and systems programming.
 
 My main workhorse is Rust
-<sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/rust.svg" width="20" height="20" alt="Rust" /></sub>. I'm also interested in OCaml
+<sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/rust.svg" width="20" height="20" alt="Rust" /></sub>.
+I'm also interested in OCaml
 <sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/ocaml.svg" width="20" height="20" alt="OCaml" /></sub>,
 less Haskell
 <sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/haskell.svg" width="20" height="20" alt="Haskell" /></sub>,
@@ -32,6 +33,11 @@ safety and performance.
   at CodeCrafters that represents the interpreter part of the
   [Crafting Interpreters](https://craftinginterpreters.com/) book by Robert
   Nystrom.
+- <sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/rust.svg" width="20" height="20" alt="Rust" /></sub>
+  ["Build your own Claude Code" Challenge](https://github.com/vittorius/codecrafters-claude-code-rust):
+  a simple Claude Code-like harness for an LLM that exhibits the main features
+  of an AI coding assistant: agent loop, using skills, running scripts within
+  skills, etc.
 
 ## Open-source contributions
 
