@@ -6,13 +6,13 @@
 I'm Viktor Zahorodnii, a software engineer from Ukraine
 <sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/flag-ua.svg" width="20" height="20" alt="Ukraine" /></sub>.
 
-After 10+ years of pleasant web development using Rails :ruby:, I've decided to
-follow my heart into the land of PL design, interpreters, compilers, and systems
-programming.
+After 10+ years of pleasant web development using Ruby on Rails
+<sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/ruby.svg" width="20" height="20" alt="Ruby" /></sub>,
+I've decided to follow my heart into the land of PL design, interpreters,
+compilers, and systems programming.
 
 My main workhorse is Rust
-<sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/rust.svg" width="20" height="20" alt="Rust" /></sub>
-but I'm also interested in OCaml
+<sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/rust.svg" width="20" height="20" alt="Rust" /></sub>. I'm also interested in OCaml
 <sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/ocaml.svg" width="20" height="20" alt="OCaml" /></sub>,
 less Haskell
 <sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/haskell.svg" width="20" height="20" alt="Haskell" /></sub>,
