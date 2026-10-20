@@ -8,7 +8,7 @@ I'm Viktor Zahorodnii, a software engineer from Ukraine
 
 After 10+ years of pleasant web development using Ruby on Rails
 <sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/ruby.svg" width="20" height="20" alt="Ruby" /></sub><sub>&nbsp;<img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/rails.svg" width="20" height="20" alt="Rails" /></sub>,
-I've decided to follow my heart into the land of PL design, interpreters,
+I've decided to follow my heart into the land of programming languages, interpreters,
 compilers, and systems programming.
 
 My main workhorse is Rust
