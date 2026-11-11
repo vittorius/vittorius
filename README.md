@@ -35,12 +35,13 @@ safety and performance.
   Nystrom.
 - <sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/rust.svg" width="20" height="20" alt="Rust" /></sub>
   ["Build your own Claude Code" Challenge](https://github.com/vittorius/codecrafters-claude-code-rust):
-  a simple Claude Code-like harness for an LLM that exhibits the main features
-  of an AI coding assistant: agent loop, using skills, running scripts within
-  skills, etc.
+  Claude Code-like harness for an LLM that exhibits the main features of an AI
+  coding assistant: agent loop, using skills, running scripts within skills,
+  etc.
 - <sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/rust.svg" width="20" height="20" alt="Rust" /></sub>
-  [Lunch voting bot](https://github.com/vittorius/lunch_voting_bot): a simple
-  Telegram bot with several commands and voting functionality
+  [Lunch voting bot](https://github.com/vittorius/lunch_voting_bot): Telegram
+  bot with several commands and voting functionality, communicating with a
+  database, and extensively covered with mocks and tests.
 
 ## Open-source contributions
 
