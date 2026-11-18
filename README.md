@@ -47,8 +47,8 @@ safety and performance.
 
 - <sub><img src="https://raw.githubusercontent.com/vittorius/vittorius/refs/heads/main/icons/rust.svg" width="20" height="20" alt="Rust" /></sub>
   [Commit message editor history for Zed](https://github.com/zed-industries/zed/pull/48193):
-  navigatable history in the commit message editor text input similar to what VS
-  Code offers.
+  the history in the commit message editor text input with up/down arrow navigation,
+  similar to what VS Code offers.
 
 ## Blog
 
